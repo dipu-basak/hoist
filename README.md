@@ -1,4 +1,4 @@
-# **hoist** Host Header Injection Scanner
+# **hoist** - a Host Header Injection Scanner
 
 A simple Bash script to detect **Host Header Injection (HHI)** vulnerabilities in web applications.  
 
