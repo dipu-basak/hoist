@@ -20,7 +20,6 @@ A simple Bash script to detect **Host Header Injection (HHI)** vulnerabilities i
 ##  Usage
 ````
 ┌──(0xbasak㉿kali)-[~]
-
 └─$ ./hoist.sh
 
      _           _     _
@@ -32,7 +31,7 @@ A simple Bash script to detect **Host Header Injection (HHI)** vulnerabilities i
 
                 by 0xbasak
 
-Usage: /usr/bin/hhi.sh domains.txt
+Usage: ./hhi.sh domains.txt
 ````
 ## Installation
 ```bash
