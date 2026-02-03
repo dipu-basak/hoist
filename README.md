@@ -41,7 +41,7 @@ cd hoist
 chmod +x hoist.sh
 ./hoist.sh domains.txt
 ```
-** Be sure to create the input file with one domain per line. **
+Be sure to create the input file with one domain per line.
 
 ##  Disclaimer
 This tool is intended for educational and ethical security research only.  
